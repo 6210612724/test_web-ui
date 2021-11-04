@@ -212,13 +212,13 @@ body{
      .dock{
          width: 0;
          display: flex;
-         padding-top: 650px;
+         padding-top: 510px;
          position: fixed;
      }
      
      .Home_content{
          width: 375px;
-         height: 610px;
+         height: 480px;
          overflow: hidden;
          overflow-y: scroll;
      }
